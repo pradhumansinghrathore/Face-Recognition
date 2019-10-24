@@ -1,11 +1,11 @@
-# Face Recognition : Python 
+# Face Recognition : Python Program
 
 Face Recognition using OpenCV in Python
 
 ### Prerequisites
 
-Numpy</br>
-OpenCV
+## Numpy</br>
+## OpenCV
 
 
 ### Installing
@@ -27,7 +27,7 @@ Run Tester.py script on commandline to train recognizer on training images and a
 4.To do test run via tester.py give the path of image in test_img variable</br>
 5.Use "videoTester.py" script for predicting faces realtime via your webcam.(But ensure that you run tester.py first since it generates training.yml file that is being used in "videoTester.py" script.
 
-## Acknowledgments
+### Acknowledgments
 * https://www.superdatascience.com/opencv-face-recognition/
 * https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/
 
